@@ -1,0 +1,6 @@
+gmsh
+meshio
+pyvista
+pmef
+scipy
+numpy
