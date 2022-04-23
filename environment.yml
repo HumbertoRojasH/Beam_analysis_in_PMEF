@@ -5,11 +5,10 @@ channels:
 dependencies:
   - cadquery=2
   - pyvista
-  - pip
-  - pip:
-    - gmsh
-    - ipywidgets
-    - meshio
-    - pmef
-    - pythreejs
-    - scipy
+  - pip=22.0.4
+  - gmsh
+  - ipywidgets
+  - meshio
+  - pmef
+  - pythreejs
+  - scipy
