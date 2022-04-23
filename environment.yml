@@ -7,10 +7,9 @@ dependencies:
   - pyvista
   - pip=22.0.4
   - gmsh
-  - ipywidgets
   - meshio
   - pythreejs
   - scipy
   - pip:
     - pmef
-    - numpy==1.22.1
+    - ipywidgets
