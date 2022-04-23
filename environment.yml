@@ -4,7 +4,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - pip
   - streamlit
+  - pip
   - pip:
     - pmef
