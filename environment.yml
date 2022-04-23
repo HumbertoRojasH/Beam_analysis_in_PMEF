@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - cadquery=master=py3.9
+  - cadquery=master=py3.7
   - pip
   - pip:
     - gmsh==4.9.5
