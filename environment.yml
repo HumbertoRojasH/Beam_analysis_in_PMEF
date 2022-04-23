@@ -1,4 +1,3 @@
-name: cadquery
 channels:
   - cadquery
   - conda-forge
