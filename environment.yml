@@ -86,7 +86,7 @@ dependencies:
   - pybind11-abi=4=hd8ed1ab_3
   - pygments=2.11.2=pyhd8ed1ab_0
   - pyparsing=3.0.8=pyhd8ed1ab_0
-  - python=3.10.4=h9a09f29_0_cpython
+  - python=3.9
   - python_abi=3.10=2_cp310
   - qt=5.12.9=h556501e_6
   - rapidjson=1.1.0=ha925a31_1002
