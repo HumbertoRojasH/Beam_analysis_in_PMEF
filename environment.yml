@@ -1,3 +1,4 @@
+name: streamlit-pmef
 channels:
   - cadquery
   - conda-forge
