@@ -9,6 +9,7 @@ dependencies:
   - gmsh
   - ipywidgets
   - meshio
-  - pmef
   - pythreejs
   - scipy
+  pip:
+    -pmef
