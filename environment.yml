@@ -5,7 +5,7 @@ channels:
 dependencies:
   - python=3.9
   - cadquery=master
-  - vtk
+  - pyvista
   - pip
   - pip:
     - gmsh
@@ -13,5 +13,4 @@ dependencies:
     - meshio
     - pmef
     - pythreejs
-    - pyvista
     - scipy
