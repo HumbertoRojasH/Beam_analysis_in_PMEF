@@ -1,9 +1,5 @@
 name: streamlit-conda-minimal
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - streamlit
-  - pip
-  - pip:
-    - pmef
