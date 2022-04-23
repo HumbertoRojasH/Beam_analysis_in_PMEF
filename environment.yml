@@ -13,4 +13,4 @@ dependencies:
   - scipy
   - pip:
     - pmef
-    - numpy
+    - numpy==1.22.1
