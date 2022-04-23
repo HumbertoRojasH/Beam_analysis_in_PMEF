@@ -12,4 +12,4 @@ dependencies:
   - pythreejs
   - scipy
   - pip:
-    -pmef
+    - pmef
