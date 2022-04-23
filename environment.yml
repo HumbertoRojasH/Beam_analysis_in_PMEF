@@ -11,5 +11,5 @@ dependencies:
   - meshio
   - pythreejs
   - scipy
-  pip:
+  - pip:
     -pmef
