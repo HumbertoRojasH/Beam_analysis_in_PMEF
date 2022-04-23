@@ -3,13 +3,13 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - cadquery=2
+  - cadquery=master
   - pyvista
-  - pip=22.0.4
-  - gmsh
-  - meshio
-  - pythreejs
+  - pip
   - scipy
   - pip:
     - pmef
+    - gmsh
+    - meshio
+    - pythreejs
     - ipywidgets
