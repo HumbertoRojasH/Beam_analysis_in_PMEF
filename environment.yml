@@ -1,6 +1,5 @@
 name: streamlit-conda-minimal
 channels:
-  - cadquery
   - conda-forge
   - defaults
 dependencies:
