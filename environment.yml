@@ -1,4 +1,4 @@
-name: streamlit-pmef
+name: streamlit-conda-minimal
 channels:
   - cadquery
   - conda-forge
