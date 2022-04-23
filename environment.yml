@@ -4,9 +4,7 @@ channels:
   - defaults
 dependencies:
   - cadquery=master=py3.9
-  - occt=7.5.3
-  - ocp=7.5.3.0
-  - pip=21.2.4
+  - pip
   - pip:
     - gmsh==4.9.5
     - ipywidgets==7.7.0
