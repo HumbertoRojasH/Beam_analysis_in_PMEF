@@ -4,12 +4,12 @@ channels:
   - defaults
 dependencies:
   - cadquery=master
-  - pyvista
   - pip
-  - scipy
   - pip:
     - pmef
     - gmsh
     - meshio
     - pythreejs
     - ipywidgets
+    - scipy
+    - pyvista
