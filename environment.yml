@@ -3,7 +3,6 @@ channels:
   - cadquery
   - conda-forge
 dependencies:
-  - python=3.8
   - pip=21.0
   - cadquery=master
   - xorg-libxcursor
