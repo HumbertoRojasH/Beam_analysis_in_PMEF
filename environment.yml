@@ -12,7 +12,7 @@ dependencies:
   - pip:
     - gmsh
     - pmef
-    - meshio
     - pyvista --install-option="--no-deps"
+    - meshio
     - pythreejs
     - ipygany
