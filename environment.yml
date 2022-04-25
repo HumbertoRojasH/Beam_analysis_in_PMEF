@@ -1,4 +1,18 @@
 channels:
+  - defaults
+  - cadquery
   - conda-forge
 dependencies:
-  - gmsh
+  - python=3.8
+  - pip=21.0
+  - cadquery=master
+  - xorg-libxcursor
+  - xorg-libxft
+  - xorg-libxinerama
+  - pip:
+    - gmsh
+    - pmef
+    - meshio
+    - pyvista --install-option="--no-deps"
+    - pythreejs
+    - ipygany
