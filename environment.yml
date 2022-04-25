@@ -9,8 +9,8 @@ dependencies:
   - xorg-libxcursor
   - xorg-libxft
   - xorg-libxinerama
+  - streamlit
   - pip:
-    - streamlit
     - gmsh
     - pmef
     - pyvista --install-option="--no-deps"
