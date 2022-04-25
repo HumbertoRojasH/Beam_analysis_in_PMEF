@@ -155,5 +155,3 @@ def Analysis_FEM(W,H,L,E,v,de,F,fix, FS):
     mesh["Uz"] = u[2::3]
     mesh_vtp = mesh.extract_surface()
     mesh_vtp.save("result.vtp")
-
-Analysis_FEM(0.6,1,10,2.1e10,0.2,7850,-1e6,"Start - End", 30)
